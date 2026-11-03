@@ -1,0 +1,2 @@
+Ini adalah file pertama.
+Saya sedang belajar Git dan GitHub.
