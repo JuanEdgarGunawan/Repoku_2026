@@ -1,0 +1,3 @@
+Ini adalah file kedua.
+Saya sedang belajar repository.
+File ini diedit langsung melalui GitHub.
