@@ -1,3 +1,5 @@
 Ini adalah file pertama.
-Saya sedang belajar Git dan GitHub.
+Saya sedang mempelajari Git dan GitHub.
 File ini diedit langsung melalui GitHub.
+Saya juga sedang mempelajari branch.
+Ini merupakan perubahan dari branch myBranch1.
