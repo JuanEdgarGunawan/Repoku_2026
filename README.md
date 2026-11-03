@@ -1,2 +1,8 @@
 # Repoku_2026
-Praktikum Git dan Github
+
+Repository untuk praktikum Git dan GitHub.
+
+## Informasi
+- Nama: Juan
+- Mata Kuliah: Praktikum
+- Tahun: 2026
